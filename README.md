@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![XenWayne's github stats](https://github-readme-stats.vercel.app/api?username=XenWayne)](https://github.com/XenWayne)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenWayne)](https://github.com/XenWayne)
 <!--
 **XenWayne/XenWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

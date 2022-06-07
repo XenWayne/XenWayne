@@ -1,4 +1,5 @@
 ### Hi there 👋
+前端是爱好，网工是生活。
 [![XenWayne's github stats](https://github-readme-stats.vercel.app/api?username=XenWayne)](https://github.com/XenWayne)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenWayne)](https://github.com/XenWayne)
 <!--

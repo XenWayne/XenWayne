@@ -2,7 +2,7 @@
 前端是爱好，网工是生活。
 </br>
 [![XenWayne's github stats](https://github-readme-stats.vercel.app/api?username=XenWayne&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenWayne&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenWayne&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XenWayne/XenWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

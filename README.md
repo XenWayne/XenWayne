@@ -11,6 +11,7 @@
 | ------------- | ------------- |
 
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.XenWayne&type=pv&style=for-the-badge&color=%2339C5BB)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fxenwayne.top&up_color=%2339C5BB&style=for-the-badge&label=xenwayne.top)
 
 <!--
 **XenWayne/XenWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

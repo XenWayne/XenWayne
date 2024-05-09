@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+寸进具欢喜，万物皆可爱。  
 前端是爱好，网工是生活。
 
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.XenWayne&type=pv&style=for-the-badge&color=%2339C5BB)

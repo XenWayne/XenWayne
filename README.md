@@ -1,14 +1,22 @@
 ### Hi there 👋
 
-寸进具欢喜，万物皆可爱。  
-前端是爱好，网工是生活。
+
+<a href="https://xenwayne.top/" target="_blank">
+    <img style="width: 100%;height:50px;" src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27" alt="Typing SVG">
+</a>
+
+<h1 align="center">森稳 | XenWayne Wu |ゼウエ </h1>
+<h4 align="center">寸进具欢喜，万物皆可爱。</h4>
+  
+前端是爱好，网工是生活。  
+
+系统集成 🖥️ | 网络工程 🌐 | 摄影 📸 | 影像编辑 🎬 | 二刺螈 💫 |  音游玩家 🎵  
+JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | NodeJS 🚀 | Java ☕ | Shell 🐚
 
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.XenWayne&type=pv&style=for-the-badge&color=%2339C5BB)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fxenwayne.top&up_color=%2339C5BB&style=for-the-badge&label=xenwayne.top)
 
-  <a onclick="_blank" href="https://xenwayne.top/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27">
-  </a>
+
   
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,vue,md,nginx,mysql,linux,docker,php,java,c,ps,pr,au,ai,vscode,idea,cloudflare,github,git,)](https://skillicons.dev)<br/>
 </br>

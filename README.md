@@ -6,7 +6,7 @@
     <img style="width: 100%;height:50px;" src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27" alt="Typing SVG">
 </a>
   
-前端是爱好，网工是生活。  
+前端是爱好，运维是生活。  
 
 网络工程 🔌 | Web开发 🌐 | 系统集成 🖥️ |  摄影 📸 | 影像编辑 🎬 | 二刺螈 💫 |  音游玩家 🎵  
 JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | NodeJS 🚀 | Java ☕ | Shell 🐚

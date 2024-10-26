@@ -16,8 +16,9 @@ JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | NodeJS 🚀 | Java ☕ | Shell �
 
 
   
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,vue,md,nginx,mysql,linux,docker,php,java,c,ps,pr,au,ai,vscode,idea,cloudflare,github,git,)](https://skillicons.dev)<br/>
-</br>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,nodejs,vue,vite,ts,pnpm,md,nginx,mongodb,mysql,ubuntu,arch,debian,linux,windows,docker,php,java,c,ps,pr,au,ai,vscode,idea,cloudflare,github,git,)](https://skillicons.dev)
+<br/>
+<br/>
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=XenWayne&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="XenWayne's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenWayne&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 

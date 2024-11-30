@@ -11,8 +11,8 @@
 网络工程 🔌 | Web开发 🌐 | 系统集成 🖥️ |  摄影 📸 | 影像编辑 🎬 | 二刺螈 💫 |  音游玩家 🎵  
 JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | NodeJS 🚀 | Java ☕ | Shell 🐚
 
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.XenWayne&type=pv&style=for-the-badge&color=%2339C5BB)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fxenwayne.top&up_color=%2339C5BB&style=for-the-badge&label=xenwayne.top)
+[![visitor badge](https://visitor-badge.imlete.cn/?id=github.XenWayne&type=pv&style=for-the-badge&color=%2339C5BB)](https://visitor-badge.imlete.cn/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxenwayne.top&up_color=%2339C5BB&style=for-the-badge&label=xenwayne.top)](https://xenwayne.top)
 
 
   

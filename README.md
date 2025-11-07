@@ -8,7 +8,7 @@
   
 前端是爱好，运维是生活。  
 
-网络工程 🔌 | Web开发 🌐 | 系统集成 🖥️ | AIOps ⚙️ | 摄影 📸 | 影像编辑 🎬 | 二刺螈 💫 |  音游玩家 🎵
+网络工程 🔌 | Web开发 🌐 | 系统集成 🖥️ | AIOps ⚙️ | 摄影 📸 | 影像编辑 🎬 | 二刺螈 💫 |  音游玩家 🎵  
 JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | NodeJS 🚀 | Java ☕ | Shell 🐚 | Python 🐍
 
 [![visitor badge](https://visitor-badge.imlete.cn/?id=github.XenWayne&type=pv&style=for-the-badge&color=%2339C5BB)](https://visitor-badge.imlete.cn/)

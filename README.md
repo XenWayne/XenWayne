@@ -1,15 +1,23 @@
 ### Hi there 👋
 
-<h1 align="center">森稳 | Wayne Wu | ウェイン </h1>
-<h4 align="center">寸进具欢喜，万物皆可爱。</h4>
+<h1 align="center">森稳 | <ruby>Wayne<rt>ウェイン</rt></ruby> <ruby>Wu<rt>ウー</rt></ruby> | <ruby>Koshin<rt>コウシン</rt></ruby></h1>
+<h4 align="center">
+  <span style="font-size: 1.2em; display: block;">
+    寸进具欢喜，万物皆可爱。
+  </span>
+  </br>
+  <span style="font-size: 1.5em; display: block;">
+    Joy in every small step; all things are lovable.
+  </span>
+</h4>
 <a href="https://xenwayne.top/" target="_blank">
     <img style="width: 100%;height:50px;" src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27" alt="Typing SVG">
 </a>
   
-前端是爱好，运维是生活。  
+Frontend is my passion, IT Operations is my life.  
 
-网络工程 🔌 | Web开发 🌐 | 系统集成 🖥️ | AIOps ⚙️ | 摄影 📸 | 影像编辑 🎬 | 二刺螈 💫 |  音游玩家 🎵  
-JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | NodeJS 🚀 | Java ☕ | Shell 🐚 | Python 🐍
+Network Engineering 🔌 | Web Development 🌐 | System Integration 🖥️ | AIOps ⚙️ | Photography 📸 | ACGN 💫 | Rhythm Game 🎵  
+JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | Node.js 🚀 | Java ☕ | Shell 🐚 | Python 🐍
 
 [![visitor badge](https://visitor-badge.imlete.cn/?id=github.XenWayne&type=pv&style=for-the-badge&color=%2339C5BB)](https://visitor-badge.imlete.cn/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxenwayne.top&up_color=%2339C5BB&style=for-the-badge&label=xenwayne.top)](https://xenwayne.top)

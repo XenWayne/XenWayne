@@ -7,7 +7,7 @@
   </span>
   </br>
   <span style="font-size: 1.5em; display: block;">
-    Joy in every small step; all things are lovable.
+    Joy in every small step, all things are lovable.
   </span>
 </h4>
 <a href="https://xenwayne.top/" target="_blank">

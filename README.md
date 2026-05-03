@@ -7,14 +7,14 @@
   </span>
   </br>
   <span style="font-size: 1.5em; display: block;">
-    Joy in every small step, all things are lovable.
+    Joy in every step, all things are lovable.
   </span>
 </h4>
 <a href="https://xenwayne.top/" target="_blank">
     <img style="width: 100%;height:50px;" src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27" alt="Typing SVG">
 </a>
   
-Frontend is my passion, IT Operations is my life.  
+Frontend for passion, Integration for life.  
 
 Network Engineering 🔌 | Web Development 🌐 | System Integration 🖥️ | AIOps ⚙️ | Photography 📸 | ACGN 💫 | Rhythm Game 🎵  
 JavaScript 💻 | Vue 🖼️ | Uniapp 📱 | Node.js 🚀 | Java ☕ | Shell 🐚 | Python 🐍

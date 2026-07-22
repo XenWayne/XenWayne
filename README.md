@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">森稳 | <ruby>Wayne<rt>ウェイン</rt></ruby> <ruby>Wu<rt>ウー</rt></ruby> | <ruby>Kure Takafuru<rt>くれ たかふる</rt></ruby></h1>
+<h1 align="center">森稳 | <ruby>Wayne<rt>ウェイン</rt></ruby> <ruby>Wu<rt>ウー</rt></ruby> | <ruby>Kure Takato<rt>くれ たかと</rt></ruby</h1>
 <h4 align="center">
   <span style="font-size: 1.2em; display: block;">
     寸进具欢喜，万物皆可爱。
